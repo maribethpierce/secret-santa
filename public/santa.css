@@ -1,0 +1,24 @@
+body {
+  background-color: blue
+}
+
+#blenderBox {
+  height: 40%;
+  width: 50%;
+  border-style: ridge;
+  border-radius: 8px;
+  background-color: rgb(68, 180, 251);
+  margin: auto;
+}
+
+form {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
